@@ -23,4 +23,6 @@ Vrinda Store wants to create an annual sales report for the year 2022. Vrinda ca
 2. Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states with the highest contribution in sales.
 3. The adult age group (30–49 yrs.) is contributing to maximum growth.
 4. Amazon, Flipkart, and Myntra are the top 3 channels for maximum contribution.
+
+## Screenshot:
 ![Vrinda Store Dashboard](https://github.com/tanujit/Vrinda-Store-Data-Analysis/assets/30634933/fdc253c8-0922-4cd7-adbd-d3da2caf78af)
